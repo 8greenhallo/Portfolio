@@ -110,8 +110,7 @@ span {
 }
 
 .btn-box {
-    padding: 15px 20px;
-    background-color: green;
-    color: wheat;
-    border: 2px solid transparent;
+    width: 345px;
+    display: flex;
+    gap: 2em;
 }
