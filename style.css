@@ -170,3 +170,36 @@ span {
     background-color: aliceblue;
     width: 50px;
 }
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12% 8%;
+    gap: 10em;
+    background: wheat;
+}
+
+.about-img img {
+    position: relative;
+    width: 550px;
+    box-shadow: 0 0 25px green;
+    border-radius: 50%;
+}
+
+.about-content h2 {
+    text-align: left;
+    color: black;
+    font-size: 42px;
+}
+
+.about-content h3 {
+    font-size: 62px;
+    color: whitesmoke;
+}
+
+.about-content p {
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
