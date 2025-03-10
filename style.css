@@ -87,8 +87,8 @@ span {
     background: rbg(241, 241, 241);
     display: flex;
     align-items: center;
-    gap: 7cm;
-    padding: 30px 12% 0;
+    gap: 7em;
+    padding: 90px 10% 0;
 }
 
 .home-content {
@@ -100,12 +100,12 @@ span {
 }
 
 .home-content h1 {
-    font-size: 62px;
+    font-size: 57px;
     line-height: 1.2;
 }
 
 .home-content p {
-    font-size: 10px;
+    font-size: 18px;
     margin: 25px 0 30px;
 }
 
@@ -138,7 +138,7 @@ span {
     padding: 15px 28px;
     background-color: burlywood;
     color: white;
-    border: 2px solid black;
+    border: 2px solid wheat;
     border-radius: 8px;
     font-size: 18px;
     letter-spacing: 1px;
@@ -188,18 +188,18 @@ span {
 }
 
 .about-content h2 {
+    font-size: 42px;
     text-align: left;
     color: black;
-    font-size: 42px;
 }
 
 .about-content h3 {
     font-size: 62px;
-    color: whitesmoke;
+    color: black;
 }
 
 .about-content p {
-    color: whitesmoke;
+    color: black;
     font-size: 20px;
     margin: 2em 0 3em;
 }
